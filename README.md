@@ -22,3 +22,5 @@ OpenBlocks is basically an app that you can mod easily! It's open source, change
 This documentation is open source, you can contribute to it on [github](https://github.com/OpenBlocksTeam/openblocks-docs).
 
 Happy coding!
+
+##Disclaimer: THIS APP WAS INDEPENDENTLY DEVELOPED FROM SCRATCH AND SKETCHWARE. 
